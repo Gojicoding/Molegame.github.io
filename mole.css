@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvertica, sans-serif;
+    text-align: center;
+    background: url(/*"https://st2.depositphotos.com/52259964/47726/v/450/depositphotos_477265846-stock-illustration-bit-pixel-game-menu-button.jpg"/);
+    background-size: cover;
+}
+
+#board {
+    width:540px;
+    height:540px;
+    background-color:aqua;
+       
+    margin: 0 auto;
+    display: flex; 
+    flex-wrap: wrap;
+}
